@@ -22,7 +22,7 @@ kernel driver.
 
 %description -l pl.UTF-8
 libmthca to sterownik przestrzeni użytkownika dla kart Mellanox
-ConnectX InfiniBand HCA. Działa jako moduł ładowany przez libibverbs,
+InfiniBand HCA. Działa jako moduł ładowany przez libibverbs,
 pozwalający programom na dostęp z przestrzeni użytkownika do sprzętu
 Mellanox.
 
