@@ -1,8 +1,9 @@
+# NOTE: for version >= 17 see rdma-core.spec
 Summary:	Userspace driver for the Mellanox InfiniBand HCAs
 Summary(pl.UTF-8):	Sterownik przestrzeni użytkownika dla kart Mellanox InfiniBand HCA
 Name:		libibverbs-driver-mthca
 Version:	1.0.6
-Release:	1
+Release:	1.1
 License:	BSD or GPL v2
 Group:		Libraries
 Source0:	http://www.openfabrics.org/downloads/mthca/libmthca-%{version}.tar.gz
